@@ -6,8 +6,6 @@
 
 ---
 
-Hacking Kintone Plug-in with React!
-
 We will be converting a jQuery-based Kintone Plug-in to a React version.
 Specifically, we will be focusing on the Plug-in's `config` settings page in this episode.
 
