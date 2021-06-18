@@ -10,8 +10,8 @@ Subscribe to the live streams at:
 
 ## Schedule
 
-| #      | **Pacific** Datetime  | Topics   |
-| ------ | --------------------- | -------- |
-| Part 1 | Tue, May 18, 5:00 PM  | React.js |
-| Part 2 | Tue, June 1, 5:00 PM  | Vue.js   |
-| Part 3 | Thu, June 17, 5:00 PM | TBD      |
+| YouTube       | **Pacific** Datetime  | Topics                        |
+| ------ | --------------------- | ----------------------------- |
+| [Part 1](https://www.youtube.com/watch?v=HDewxYzImqI) | Tue, May 18, 6:00 PM  | Intro to Kintone Plug-in      |
+| [Part 2](https://www.youtube.com/watch?v=7hC0HpkBw8g) | Tue, June 1, 6:00 PM  | Getting started with React.js |
+| [Part 3](https://www.youtube.com/watch?v=1DTvRu4pILY) | Thu, June 17, 6:00 PM | Converting jQuery to React.js |
