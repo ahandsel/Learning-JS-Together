@@ -6,15 +6,7 @@
 
 ---
 
-In this episode, we will be converting the jQuery-based customization JS code to work for our React-based Kintone Plug-in.
-
-We will be working on desktop.js available here:
-<https://github.com/ahandsel/Table-Utility-Plug-in/blob/main/2_Goal_Point/src/js/desktop.js>
-
-Steps:
-1. Review desktop.js from Table-Utility-Plug-in
-2. Go over how to get Kintone App specifications with React
-3. Convert the jQuery-based code to React-based code
+In this episode, we will be setting up the development tools for Kintone Plug-in Development!
 
 ---
 
@@ -28,7 +20,7 @@ Steps:
 We need to start by reconfiguring the manifest.json file by linking to the appropriate code.
 
 Automate the Kintone Plug-in Development pipeline
-- Details at [Developer_Tools.md](Developer_Tools.md)
+  * Details at [Developer_Tools.md](Developer_Tools.md)
 
 ### Inside `build` folder
 
@@ -37,14 +29,14 @@ Automate the Kintone Plug-in Development pipeline
 Webpack takes in the React JSX files and generates the JS files.
 
 ### Build the `manifest.json` file
-* Missing link turn our directory of code into a machine readable
-* Webpack starts from index.js --> then spider their way into all the refereed files
-* Kintone Plug-in's desktop.js & config.js never touch.
+  * Missing link turn our directory of code into a machine readable
+  * Webpack starts from index.js --> then spider their way into all the refereed files
+  * Kintone Plug-in's desktop.js & config.js never touch.
 
 ### package.json
 
-### Babel is a JavaScript compiler.
-* <https://babeljs.io/>
+### Babel is a JavaScript compiler
+  * <https://babeljs.io/>
 
 ### Setting up enbormental values
 Create a `.env` file with the following:
